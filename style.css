@@ -1,0 +1,10 @@
+.h2{
+   text-align: center; 
+}
+.opis{
+    text-align: center;
+}
+.slike{
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
